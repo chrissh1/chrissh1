@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Studying Computer Science @ UMich
+Junior Studying Computer Science and Math @ UMich
 
 
 # 💻 Tech Stack:
